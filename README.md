@@ -40,6 +40,7 @@ Solutions to assignments are included for each corresponding week.
 -  [WEEK 1](./GRPA/Week%201)
 -  [WEEK 2](./GRPA/Week%202)
 -  [WEEK 3](./GRPA/Week%203)
+-  [WEEK 4](./GRPA/Week%204)
 ### Notes
 - SOON ( Just Lazy )
 
