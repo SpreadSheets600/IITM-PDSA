@@ -72,3 +72,55 @@ An undirected graph G has 17 vertices. The sum of the degrees of all the vertice
 A10 )
 D = 42, K = 9
 __________________________________________________________________________________________________________________________
+Q11 )
+A king’s summer house is being rewired. The house has 11 rooms. To avoid wires getting entangled and creating short circuits, the electricians have been asked to observe the following rules. 
+
+* Room 1 must be rewired before rooms 3 and 4. 
+* Room 2 must be rewired before room 6. 
+* Room 3 must be rewired before room 5. 
+* Room 5 must be rewired before rooms 8 and 9. 
+* Room 6 must be rewired before room 7. 
+* Room 7 must be rewired before room 5. 
+* Room 8 must be rewired before room 10. 
+* Room 9 must be rewired before room 11. 
+
+It takes one full day to rewire a room. There are enough electricians to rewire as many rooms as can be rewired in parallel, keeping in mind the constraints above. What is the minimum number of days required to complete the job?
+</br></br>
+A11 )
+6
+__________________________________________________________________________________________________________________________
+Q12 )
+We have an undirected graph `G` with `7` vertices. We write down the degrees of all vertices in `G` in descending order. Which of the following is a possible listing of the degrees?
+
+7, 6, 6, 5, 4, 1, 1
+6, 6, 6, 3, 2, 2, 1
+5, 3, 3, 2, 2, 1, 1
+5, 3, 3, 3, 3, 2, 1
+
+</br></br>
+A12 )
+5, 3, 3, 3, 3, 2, 1
+__________________________________________________________________________________________________________________________
+Q13 )
+
+![image](https://github.com/user-attachments/assets/80e1d59f-ad38-401d-b9ff-15f0f67ff323)
+If we run Breadth First Search(BFS) on the given graph starting from vertex A , which of the following is the order of visiting the nodes?
+
+Note: Assume that when a node has multiple neighbours, BFS visits them alphabetically.
+</br></br>
+A13 )
+A B C G E F D H
+__________________________________________________________________________________________________________________________
+Q14 )
+
+Consider a simple undirected connected graph G with 65 edges with the least number of vertices possible. What will be the number of vertices in graph G?
+</br</br>
+A14 ) 12
+__________________________________________________________________________________________________________________________
+Q15 )
+
+![image](https://github.com/user-attachments/assets/cb65a676-f643-42ad-a981-44b441ce97c9)
+How many connected components remain the above graph if the edges (5,9), (4,7), (1,7), (1,5) and (2,9) are deleted ?
+</br></br>
+A15 ) 4
+__________________________________________________________________________________________________________________________
