@@ -31,12 +31,16 @@ Solutions to assignments are included for each corresponding week.
 
 ## 🗂️ Navigation Links
 
+### GA
+-  [WEEK 1](./Graded%20Assesment/W1-GA.pdf)
+-  [WEEK 2](./Graded%20Assesment/W2-GA.pdf)
+-  [WEEK 3](./Graded%20Assesment/W3-GA.pdf)
+-  [WEEK 4](./Graded%20Assesment/W4-GA.md)
 ### GRPA
 -  [WEEK 1](./GRPA/Week%201)
 -  [WEEK 2](./GRPA/Week%202)
+-  [WEEK 3](./GRPA/Week%203)
 ### Notes
-- SOON ( Just Lazy )
-### Sollutions
 - SOON ( Just Lazy )
 
 ---
