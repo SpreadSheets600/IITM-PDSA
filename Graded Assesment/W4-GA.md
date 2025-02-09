@@ -122,5 +122,5 @@ Q15 )
 ![image](https://github.com/user-attachments/assets/cb65a676-f643-42ad-a981-44b441ce97c9)
 How many connected components remain the above graph if the edges (5,9), (4,7), (1,7), (1,5) and (2,9) are deleted ?
 </br></br>
-A15 ) 4
+A15 ) 3
 __________________________________________________________________________________________________________________________
