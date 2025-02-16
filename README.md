@@ -18,31 +18,41 @@ Hello there!
 
 The files in this repository are organized week-wise. Each folder represents a week and contains the solutions to the problems given for that week.
 
-
 ## 📚 Notes Overview
 
-### Lecture Notes  
-Each week's folder contains the lecture PDFs and a Markdown file summarizing the key points discussed during the week.  
+### Lecture Notes
 
-### Assignments  
-Solutions to assignments are included for each corresponding week.  
+Each week's folder contains the lecture PDFs and a Markdown file summarizing the key points discussed during the week.
+
+### Assignments
+
+Solutions to assignments are included for each corresponding week.
 
 ---
 
 ## 🗂️ Navigation Links
 
 ### GA
--  [WEEK 1](./Graded%20Assesment/W1-GA.pdf)
--  [WEEK 2](./Graded%20Assesment/W2-GA.pdf)
--  [WEEK 3](./Graded%20Assesment/W3-GA.pdf)
--  [WEEK 4](./Graded%20Assesment/W4-GA.md)
+
+- [WEEK 1](./Graded%20Assesment/W1-GA.pdf)
+- [WEEK 2](./Graded%20Assesment/W2-GA.pdf)
+- [WEEK 3](./Graded%20Assesment/W3-GA.pdf)
+- [WEEK 4](./Graded%20Assesment/W4-GA.md)
+
 ### GRPA
--  [WEEK 1](./GRPA/Week%201)
--  [WEEK 2](./GRPA/Week%202)
--  [WEEK 3](./GRPA/Week%203)
--  [WEEK 4](./GRPA/Week%204)
+
+- [WEEK 1](./GRPA/Week%201)
+- [WEEK 2](./GRPA/Week%202)
+- [WEEK 3](./GRPA/Week%203)
+- [WEEK 4](./GRPA/Week%204)
+
 ### Notes
-- SOON ( Just Lazy )
+
+- [ Revision ](./DSA%20Notes/Revision) ( One Shot Revision )
+
+- [ Data Structures](./DSA%20Notes/DataStructures)
+- [ Sorting Algoritms ](./DSA%20Notes/SortAlgorithms)
+- [ Searching Algoritms ](./DSA%20Notes/SearchAlgorithms)
 
 ---
 
