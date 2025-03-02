@@ -38,6 +38,9 @@ Solutions to assignments are included for each corresponding week.
 - [WEEK 2](./Graded%20Assesment/W2-GA.pdf)
 - [WEEK 3](./Graded%20Assesment/W3-GA.pdf)
 - [WEEK 4](./Graded%20Assesment/W4-GA.md)
+- [WEEK 5](./Graded%20Assesment/W5-GA.md)
+- [WEEK 6](./Graded%20Assesment/W6-GA.md)
+- [WEEK 7](./Graded%20Assesment/W7-GA.md)
 
 ### GRPA
 
@@ -45,6 +48,9 @@ Solutions to assignments are included for each corresponding week.
 - [WEEK 2](./GRPA/Week%202)
 - [WEEK 3](./GRPA/Week%203)
 - [WEEK 4](./GRPA/Week%204)
+- [WEEK 5](./GRPA/Week%205)
+- [WEEK 6](./GRPA/Week%206)
+- [WEEK 7](./GRPA/Week%207)
 
 ### Notes
 
