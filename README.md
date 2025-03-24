@@ -51,6 +51,8 @@ Solutions to assignments are included for each corresponding week.
 - [WEEK 5](./GRPA/Week%205)
 - [WEEK 6](./GRPA/Week%206)
 - [WEEK 7](./GRPA/Week%207)
+- [WEEK 8](./GRPA/Week%208)
+- [WEEK 9](./GRPA/Week%209)
 
 ### Notes
 
