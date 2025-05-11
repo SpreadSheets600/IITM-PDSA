@@ -1,4 +1,4 @@
-📚 IITM - DS - DBMS Solutions
+# 📚 IITM - DS - PDSA Solutions
 
 Hello there!  
 **SOHAM** here. Welcome to my repository for the **IITM Python Data Scrtuctures And Algorithms** course. This repository contains my **lecture notes**, **assignment solutions**, and other resources for DBMS, organized for easy navigation and study.
